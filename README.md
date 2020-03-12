@@ -20,7 +20,7 @@ pip install --user . && pip install --user -e .
 You should now be able to run this in Python:
 
 ```python
-import synbioptyhon
+import synbiopython
 print(synbiopython.__version__)
 
 ```
